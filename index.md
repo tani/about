@@ -1,7 +1,8 @@
 ---
 layout: default
 ---
-# Hello, I am TANIGUCHI Masaya
+
+<h1 class="text-center">Hello, I am TANIGUCHI Masaya</h1>
 
 TANIGUCHI Masaya is a second-year Ph.D. student in
 Tojo laboratory, Graduate School of Advanced Science and Technology, Japan
