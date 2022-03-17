@@ -1,0 +1,14 @@
+{
+  "name": "about",
+  "version": "0.1.0",
+  "description": "About me",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tani/about.git"
+  },
+  "author": "TANIGUCHI Masaya",
+  "license": "UNLICENSED",
+  "dependencies": {
+    "@11ty/eleventy": "^1.0.0"
+  }
+}
