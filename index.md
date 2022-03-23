@@ -4,13 +4,7 @@ layout: default
 
 <h1 class="text-center">Hello, I am TANIGUCHI Masaya</h1>
 
-TANIGUCHI Masaya is a second-year Ph.D. student in
-Tojo laboratory, Graduate School of Advanced Science and Technology, Japan
-Advanced Institute of Science and Technology. His supervisor is Satoshi Tojo. He
-did a Bachelor of Science in Mathematics at Gakushuin University, and did a
-Master of Science in Information Science at Japan Advanced Institute of Science
-and Technology. His research interests lie in the area of formal semantics of
-natural language, and programming language.
+Masaya Taniguchi received B.S. from GakushuinUniversity and M.S. from Japan Advanced Instituteof Science and Technology. He is a Ph.D. studentin Graduate School of Advanced Science and Tech-nology at Japan Advanced Institute of Science andTechnology, and a DC2 research fellow at JapanSociety for Promotion of Science. His research in-terests lie in the area of formal semantics of naturallanguage, and programming language.
 
 ### Research Interests
 
