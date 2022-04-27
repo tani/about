@@ -2,21 +2,21 @@
 layout: default
 ---
 
-<h1 class="text-center">Hello, I am TANIGUCHI Masaya</h1>
+# [Hello, I am TANIGUCHI Masaya]{.text-center}
 
 Masaya Taniguchi received B.S. from GakushuinUniversity and M.S.
 from Japan Advanced Instituteof Science and Technology.
 He is a Ph.D. student in Graduate School of Advanced Science and Technology
 at Japan Advanced Institute of Science andTechnology,
-and a DC2 research fellow at JapanSociety for Promotion of Science.
+and a DC2 research fellow at Japan Society for Promotion of Science.
 His research in-terests lie in the area of formal semantics of naturallanguage, and programming language.
 
-### Research Interests
+## Research Interests
 
 - Formal semantics of natural language
 - Theorem proving
 
-### Refereed Publication
+## Refereed Publication
 
 See also [dblp](https://dblp.org/pid/242/9503.html).
 
@@ -31,7 +31,7 @@ See also [dblp](https://dblp.org/pid/242/9503.html).
   the 11th International Conference on Agent and Artificial Intelligence, Vol.
   1, pp. 54-61, 2019
 
-### Talks
+## Talks
 
 - **Masaya Taniguchi**, "Formalization of Categorial Grammar", TPP 2022,
   Hokkaido, Japan, November. 2021
@@ -49,7 +49,7 @@ See also [dblp](https://dblp.org/pid/242/9503.html).
 
 And other local conferences.
 
-### Teaching
+## Teaching
 
 I have an experience to teach the formal language theories and undergraduate
 level mathematics.
@@ -70,12 +70,12 @@ level mathematics.
 - Teaching assistant for "Formal Language and Automata" (April 2022 --
   June 2022)
 
-### Social Contribution Activities
+## Social Contribution Activities
 
 - Volunteer education support at an orphanage Seirei Aiji En, Ishikawa, Japan,
   July. 2021 - Now
 
-### Financial Support
+## Financial Support
 
 - JASSO Scholarship, Exemption from refund due to outstanding performance,
   April. 2018 -- March. 2020
@@ -87,7 +87,7 @@ level mathematics.
 - JAIST Doctoral Research Fellow (top 20% of all successful applicants for the
   doctoral program, around 100 students), April. 2020 -- March. 2021
 
-### Research Experience
+## Research Experience
 
 - Instructor, Gakushuin University Computer Centre, April. 2015 -- March. 2018
 - Research Assistant, National Institute of Informatics, August. 2016 --- Now
@@ -95,26 +95,26 @@ level mathematics.
 - JSPS Research Fellow DC2 (Linguistics, Humanities), Japan Society for the
   Promotion of Science, April. 2021 -- March. 2023
 
-### Research Grant
+## Research Grant
 
 - [Polymorphic Combinatory Categorial Grammar for Incremental
   Parsing](https://kaken.nii.ac.jp/ja/grant/KAKENHI-PROJECT-21J15207/) (800,000
   JPY in 2021, 400,000 JPY in 2022), Grant-in-Aid for JSPS Fellows, April.
   2021 - March. 2023
 
-### Awards
+## Awards
 
 - Tokyo Industrial Education Encouragement Award, TITECH HST, Tokyo, 2014
 
-### Physical Skills
+## Physical Skills
 
 - Japanese Martial Arts, Kendo 3rd dan grade, All Japan Kendo Federation, 2013
 
-### Contact
+## Contact
 
 - E-mail: `taniguchi (at) jaist.ac.jp`, `taniguchi (at) masaya.info`
 
-### Software products
+## Software products
 
 I am an OSS developer joining many projects such as the interpreter of
 programming language, utilities for daily work, and useful libraries. You can
@@ -125,7 +125,7 @@ see these works on GitHub.
 - Python PyPI: [taniguchi](https://pypi.org/user/taniguchi/)
 - JavaScript NPM: [taniguchi](https://www.npmjs.com/~taniguchi)
 
-#### Acknowledgement
+## Acknowledgement
 
 My OSS work is supported by Gitpod. They provide
 [_Professional Open Source_](https://www.gitpod.io/docs/professional-open-source)
