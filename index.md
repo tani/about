@@ -1,10 +1,19 @@
 ---
 layout: default
 ---
+---
+layout: page
+title: About me
+---
 
 <h1 class="text-center">Hello, I am TANIGUCHI Masaya</h1>
 
-Masaya Taniguchi received B.S. from GakushuinUniversity and M.S. from Japan Advanced Instituteof Science and Technology. He is a Ph.D. studentin Graduate School of Advanced Science and Tech-nology at Japan Advanced Institute of Science andTechnology, and a DC2 research fellow at JapanSociety for Promotion of Science. His research in-terests lie in the area of formal semantics of naturallanguage, and programming language.
+Masaya Taniguchi received B.S. from GakushuinUniversity and M.S.
+from Japan Advanced Instituteof Science and Technology.
+He is a Ph.D. student in Graduate School of Advanced Science and Technology
+at Japan Advanced Institute of Science andTechnology,
+and a DC2 research fellow at JapanSociety for Promotion of Science.
+His research in-terests lie in the area of formal semantics of naturallanguage, and programming language.
 
 ### Research Interests
 
@@ -24,7 +33,7 @@ See also [dblp](https://dblp.org/pid/242/9503.html).
 - Song Yang, **Masaya Taniguchi**, Satoshi Tojo, "4-valued Logic for Agent
   Communication with Private / Public Information Passing", Proceedings of
   the 11th International Conference on Agent and Artificial Intelligence, Vol.
-  1, pp. 54-61, 2019
+  1, pp. 54-61, 2019
 
 ### Talks
 
@@ -124,4 +133,4 @@ see these works on GitHub.
 
 My OSS work is supported by Gitpod. They provide
 [_Professional Open Source_](https://www.gitpod.io/docs/professional-open-source)
-license to me. I enjoy coding my OSS work with Gitpod every day. :::
+license to me. I enjoy coding my OSS work with Gitpod every day.
