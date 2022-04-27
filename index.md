@@ -1,10 +1,6 @@
 ---
 layout: default
 ---
----
-layout: page
-title: About me
----
 
 <h1 class="text-center">Hello, I am TANIGUCHI Masaya</h1>
 
