@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# [Hello, I am TANIGUCHI Masaya]{.d-block.text-center}
+# [Hello, I am TANIGUCHI Masaya]{.d-block .text-center}
 
 Masaya Taniguchi received B.S. from GakushuinUniversity and M.S.
 from Japan Advanced Instituteof Science and Technology.
