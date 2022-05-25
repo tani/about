@@ -9,7 +9,7 @@ from Japan Advanced Instituteof Science and Technology.
 He is a Ph.D. student in Graduate School of Advanced Science and Technology
 at Japan Advanced Institute of Science andTechnology,
 and a DC2 research fellow at Japan Society for Promotion of Science.
-His research in-terests lie in the area of formal semantics of naturallanguage, and programming language.
+His research in-terests lie in the area of formal semantics of natural language, and programming language.
 
 ## Research Interests
 
